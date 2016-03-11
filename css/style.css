@@ -1,0 +1,170 @@
+.navbar-inverse .navbar-nav>li>a {
+    color: #cc9900;
+}
+.navbar-brand i{
+    color: #cc9900;
+}
+.hm_left{
+    padding-right: 0;
+    padding-left: 0;
+}
+.hm_right{
+    background: #333333;
+    height: 488px;
+    color: #fff;
+    text-align: center;
+    margin-left: 0;
+    padding: 20px 20px;
+}
+.hm_right .b{
+    border: 1px solid #fff;
+    padding: 10px;
+    height: 450px;
+}
+.navbar{
+    margin-bottom: 0;
+}
+.hm_right p{
+    margin: 50px 0;
+    padding: 0 24px;
+    font-family: inherit;
+}
+
+.hm_right h6{
+    color: #cc9900;
+    font-family:initial;
+}
+.hm_right a{
+    padding: 10px 15px;
+    border: 1px solid #fff;
+    margin-top: 30px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    transition: .5s;
+}
+.hm_right a:hover{
+    background: #cc9900;
+    color: #333333;
+}
+/**********Service*********/
+#service{
+    text-align: center;
+    margin: 50px 0;
+}
+#service .fa{
+    border: 2px solid #333333;
+    border-radius: 50%;
+    padding: 20px;
+    color: #cc9900;
+    background: #333333;
+    transition: .5s;
+}
+#service .fa:hover{
+    background: #cc9900;
+    color: #333333;
+}
+/**********footer*********/
+#footer{
+    background:#000;
+    text-align: center;
+    padding: 10px 0;
+    color: #fff;
+}
+#footer p i{
+    color: #cc9900;  
+}
+/*******team**********/
+#team{
+    text-align: center;
+    margin: 20px 0;
+}
+#team img{
+    border-radius:50%;
+}
+/******after_save*********/
+.hm_right .hi{
+    color: #cc9900
+}
+/********Portfolio***********/
+
+.prt a{
+    border: none; 
+    margin-top: 10px;
+}
+.prt a:hover{
+    background: none;
+}
+.prt p{
+    margin: 0;
+}
+/*******Edit***********/
+.edit{
+    margin-top: 50%;
+}
+#cv input{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+#cv select{
+    margin-left: 10%;
+     margin-top: 2%;
+}
+#cv textarea{
+    margin-left: 10%;
+     margin-top: 2%;
+}
+/********admin***********/
+.table{
+    border: 1px solid;
+    margin: 20px 0
+}
+.table td, th{
+    border: 1px solid; 
+}
+.admin form{
+    text-align: center;
+    margin-top: 50px;
+}
+select{
+    padding: 7px 50px;
+    border-radius: 5px;
+    color: #000;
+}
+.admin{
+    height: 420px;
+}
+.admin .b{
+    height: 374px;
+}
+.hm_admin p a{
+    border: none;
+    color: #FFF;
+    padding: 0;
+    margin: 0;
+}
+.hm_admin p a:hover{
+    background: none;
+    color: #cc9900;
+}
+/*****adid******/
+.hm_right .b img{
+    height: 150px;
+    width: 120px;
+}
+/********cv*******/
+#cv{
+    padding: 50px 0;
+    background: #ccc;
+}
+#cv span{
+    font-size: 16px;
+}
+/*************wrk_history********/
+#total_hr .btn{
+    margin-top: 20px;
+}
+#total_hr .col-md-offset-2{
+    margin-top: 28px;
+    font-size: 22px; 
+}
